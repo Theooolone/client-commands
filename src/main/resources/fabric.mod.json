@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "clientside-commands",
+	"version": "${version}",
+	"name": "Clientside Commands",
+	"description": "Use several commands without OP!",
+	"authors": [
+		"Theooolone"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/clientside-commands"
+	},
+	"license": "CC-BY-NC-SA-4.0",
+	"icon": "assets/clientside-commands/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"theooolone.clientcmds.ClientCommands"
+		]
+	},
+	"mixins": [
+		"clientside-commands.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

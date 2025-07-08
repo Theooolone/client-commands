@@ -1,0 +1,17 @@
+{
+  "commands.failed.wronggamemode": "Cannot modify inventory while not in creative",
+  "commands.clientgive.success": "Gave %s %s",
+  "commands.clientitem.set.success": "Replaced a slot with %s",
+  "commands.clientitem.no_such_slot": "No such slot %s",
+  "commands.clientitem.no_changed.known_item": "Did not accept item %s into slot %s",
+  "clientclear.failed": "No items were found",
+  "commands.clientclear.success": "Removed %s item(s)",
+  "commands.clientclear.test": "Found %s matching item(s)",
+  "commands.clienttitle.clear": "Cleared titles",
+  "commands.clienttitle.reset": "Reset title options",
+  "commands.clienttitle.show.actionbar": "Showing new actionbar title",
+  "commands.clienttitle.show.subtitle": "Showing new subtitle",
+  "commands.clienttitle.show.title": "Showing new title",
+  "commands.clienttitle.times": "Changed title display times",
+  "commands.playsound.success": "Played sound %s"
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "theooolone.clientcmds.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntitySelectorMixin",
+    "WorldMixin",
+    "DefaultPosArgumentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
