@@ -8,7 +8,9 @@
 		"Theooolone"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/project/clientside-commands"
+		"homepage": "https://modrinth.com/project/clientside-commands",
+		"sources": "https://github.com/Theooolone/client-commands/",
+		"issues": "https://github.com/Theooolone/client-commands/issues"
 	},
 	"license": "CC-BY-NC-SA-4.0",
 	"icon": "assets/clientside-commands/icon.png",
